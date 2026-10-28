@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository contains my work for **Assignment 1** of the Version Control and Collaboration course. The assignment introduces the core ideas behind version control systems (VCS), with a focus on Git and GitHub, and how teams use them to build software together.
+This a practice for VCC Pull request
 
 ## Objectives
 
